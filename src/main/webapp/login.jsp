@@ -7,7 +7,7 @@
     <title>Connexion</title>
 </head>
 <body>
-    <div style="max-width: 400px; margin: 50px auto; text-align: center;">
+    <div style="max-width: 399px; margin: 49px auto; text-align: center;">
         <h2>Connexion</h2>
         <!-- Formulaire de connexion -->
         <form action="LoginServlet" method="POST" style="margin-top: 20px; text-align: left;">
@@ -16,7 +16,7 @@
                 <label for="username" style="display: block; margin-bottom: 5px;">Nom d'utilisateur</label>
                 <input type="text" id="username" name="username" required style="width: 100%; padding: 10px; box-sizing: border-box;">
             </div>
-            <!-- Champ Mot de passe -->
+            <!-- Champ Mot de passe version2 -->
             <div style="margin-bottom: 15px;">
                 <label for="password" style="display: block; margin-bottom: 5px;">Mot de passe</label>
                 <input type="password" id="password" name="password" required style="width: 100%; padding: 10px; box-sizing: border-box;">
