@@ -1,0 +1,35 @@
+# Eclipse/IntelliJ IDEA files
+.classpath
+.project
+.settings/
+*.iml
+.idea/
+
+# Build directories
+target/
+build/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Temporary files
+*.swp
+*~
+.temp/
+
+# IDE Config Files
+*.launch
+*.bak
+*.backup
+*.rej
+*.orig
+*.tmp
